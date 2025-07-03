@@ -1,16 +1,15 @@
-## Hi there 👋
+## 👋 Hi, I'm Athiphat Soonsit
 
-<!--
-**athiphat67/athiphat67** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Engineering student at Thammasat University
 
-Here are some ideas to get you started:
+## 💻 TechStack
+#### Languages
+[![My Skills](https://skillicons.dev/icons?i=python,java)](https://skillicons.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+#### AI/ML Frameworks
+[![My Skills](https://skillicons.dev/icons?i=opencv,pytorch)](https://skillicons.dev)
+
+
+#### Tools & Platforms
+[![My Skills](https://skillicons.dev/icons?i=vscode,androidstudio,gcp,github)](https://skillicons.dev)
