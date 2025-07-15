@@ -19,9 +19,21 @@ I'm a Computer Engineering student at Thammasat University
 ### Kibo-RPC 6th (NSTDA-สวทช.) 2025
 
 
+As the **Team Leader**, I led this Kibo-RPC project, which was developed entirely in Java via Android Studio. The project's main objective was to optimize the control and navigation of the Astrobee robot.
+
+
 The project team received **the Outstanding Presentation Award** at the national championship, where the team finished **6th**.
 
+**Key features of this project include:**
 
-My Kibo-RPC project, developed entirely in Java via Android Studio, optimized Astrobee control and navigation, utilized OpenCV for image processing, integrated a custom-trained YOLOv8n model (converted to TFLite) for object detection, and implemented precise vector translation for reporting within the simulation. You can see all details in repo link.
+- Optimized control and navigation for the Astrobee robot.
+
+- Utilization of OpenCV for advanced image processing.
+
+- Integration of a custom-trained YOLOv8n model (converted to TFLite) for object detection.
+
+- Implementation of precise vector translation for accurate reporting within the simulation.
+
+You can find all project details in the repository link below.
 
 **Repository:** https://github.com/athiphat67/KiboTeamSENSUAY.git
