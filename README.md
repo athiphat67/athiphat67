@@ -16,7 +16,7 @@ I'm a Computer Engineering student at Thammasat University
 
 
 ## 🚀 MyProject
-### Kibo-RPC (NSTDA-สวทช.)                                                                            2025
+### Kibo-RPC 6th (NSTDA-สวทช.) 2025
 
 
 The project team received **the Outstanding Presentation Award** at the national championship, where the team finished **6th**.
