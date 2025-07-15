@@ -19,7 +19,7 @@ I'm a Computer Engineering student at Thammasat University
 ### Kibo-RPC (NSTDA-สวทช.)
 
 
-The project team received the Outstanding Presentation Award at the national championship, where the team finished 6th.
+The project team received **the Outstanding Presentation Award** at the national championship, where the team finished **6th**.
 
 
 My Kibo-RPC project, developed entirely in Java via Android Studio, optimized Astrobee control and navigation, utilized OpenCV for image processing, integrated a custom-trained YOLOv8n model (converted to TFLite) for object detection, and implemented precise vector translation for reporting within the simulation. You can see all details in repo link.
