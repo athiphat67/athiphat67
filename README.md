@@ -28,9 +28,9 @@ The project team received **the Outstanding Presentation Award** at the national
 
 - Optimized control and navigation for the Astrobee robot.
 
-- Utilization of OpenCV for advanced image processing.
+- Utilization of **OpenCV** for advanced image processing.
 
-- Integration of a custom-trained YOLOv8n model (converted to TFLite) for object detection.
+- Integration of a custom-trained **YOLOv8n model** (converted to TFLite) for object detection.
 
 - Implementation of precise vector translation for accurate reporting within the simulation.
 
