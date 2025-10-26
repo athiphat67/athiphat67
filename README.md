@@ -19,7 +19,7 @@ I'm a Computer Engineering student at Thammasat University
 ### Kibo-RPC 6th (NSTDA-สวทช.) 2025
 
 
-As the **Team Leader**, I led this Kibo-RPC project, which was developed entirely in Java via Android Studio. The project's main objective was to optimize the control and navigation of the Astrobee robot.
+As the **Team Leader**, I led this Kibo-RPC project, which was developed entirely in Java via Android Studio. The project's main objective was to optimize the control and navigation of the Astrobee robot
 
 
 The project team received **the Outstanding Presentation Award** at the national championship, where the team finished **6th**.
