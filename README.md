@@ -16,7 +16,7 @@ I'm a Computer Engineering student at Thammasat University
 
 
 ## 🚀 MyProject
-## 🚀 Featured Project: Kibo-RPC 6th (Thailand Preliminary) 2025
+## Kibo-RPC 6th (Thailand Preliminary) 2025
 
 ![Role](https://img.shields.io/badge/Role-Team_Leader-blue?style=for-the-badge)
 ![Rank](https://img.shields.io/badge/Rank-6th_Place_(National)-success?style=for-the-badge)
