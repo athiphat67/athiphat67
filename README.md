@@ -19,7 +19,7 @@ I'm a Computer Engineering student at Thammasat University
 ## Kibo-RPC 6th (Thailand Preliminary) 2025
 
 ![Role](https://img.shields.io/badge/Role-Team_Leader-blue?style=for-the-badge)
-![Rank](https://img.shields.io/badge/Rank-6th_Place_(National)-success?style=for-the-badge)
+![Rank](https://img.shields.io/badge/Rank-6th_Place_(Thailand_Preliminary)-success?style=for-the-badge)
 ![Award](https://img.shields.io/badge/Award-Best_Presentation-gold?style=for-the-badge)
 
 **Theme:** Space Treasure Hunt with NASA's Astrobee Robot 🤖🛰️
