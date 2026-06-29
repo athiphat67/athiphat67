@@ -48,13 +48,13 @@ As **Team Leader** of team **"SENSUAY"**, I managed the project timeline and led
 ### 🏅 นักขุดทอง (Gold Digger) — Gold Trading AI Signal Generator
 
 ![Course](https://img.shields.io/badge/CN240-Data_Science_for_Signal_Processing-4A148C?style=for-the-badge)
-![Status](https://img.shields.io/badge/Deployed-Live-success?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Deployed-blue?style=for-the-badge)
 
 Two **independent** signal engines — an **XGBoost LambdaMART** ranker and a **ReAct LLM agent** (with news sentiment) — that watch live HSH965 gold prices and push **BUY / SELL / HOLD** signals to Discord & Telegram roughly every 10 minutes. It advises a human trader; **it never places a trade automatically.**
 
 **Stack:** XGBoost · FastAPI · Gradio · React · Supabase
 
-🔗 [Source repository](https://github.com/athiphat67/CN240_DATA-SCIENCE-FOR-SIGNAL-PROCESSING_PROJECT) · 🟢 [Live demo on Hugging Face](https://huggingface.co/spaces/athiphatss/argmax-sniper-live)
+🔗 [Source repository](https://github.com/athiphat67/CN240_DATA-SCIENCE-FOR-SIGNAL-PROCESSING_PROJECT) · 🤗 [Deployed on Hugging Face](https://huggingface.co/spaces/athiphatss/argmax-sniper-live)
 
 ---
 
