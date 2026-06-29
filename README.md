@@ -54,7 +54,7 @@ Two **independent** signal engines — an **XGBoost LambdaMART** ranker and a **
 
 **Stack:** XGBoost · FastAPI · Gradio · React · Supabase
 
-🔗 [Source repository](https://github.com/athiphat67/CN240_DATA-SCIENCE-FOR-SIGNAL-PROCESSING_PROJECT) · 🤗 [Deployed on Hugging Face](https://huggingface.co/spaces/athiphatss/argmax-sniper-live)
+🔗 [Source repository](https://github.com/athiphat67/CN240_DATA-SCIENCE-FOR-SIGNAL-PROCESSING_PROJECT) 
 
 ---
 
