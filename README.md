@@ -26,6 +26,8 @@
 
 ## 🚀 Projects
 
+> 📚 Projects tagged with a **CN-course badge** (CN230 / CN240 / CN332) were built as **academic coursework** at the Department of Computer Engineering, Thammasat University.
+
 ### 🤖 Kibo-RPC 6th (Thailand Preliminary) 2025
 
 ![Role](https://img.shields.io/badge/Role-Team_Leader-blue?style=for-the-badge)
